@@ -296,7 +296,6 @@ span.text-red {
   font-size: 30px;
   display: flex;
   gap: 10px;
-  cursor: pointer;
 }
 .cart-heading {
   display: flex;
